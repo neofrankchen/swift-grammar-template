@@ -9,12 +9,16 @@
 ---
 
 ## 何ができるアプリか（3行）
+ネコと一緒に、さまざまなジャンルの2択クイズを楽しめます。
+1プレイ10問・1問30秒で挑戦し、答えの解説を読んで学べます。
+得点や回答時間を記録し、端末内のランキングで順位を確認できます。
 
-ネコと一緒に2択クイズを楽しみ、答えの解説を読んで知識を学べるアプリです。
 ## 画面
-![Uploading IMG_4408.PNG…]()
-![Uploading IMG_4409.PNG…]()
-![Uploading IMG_4410.PNG…]()
+<img width="603" height="1311" alt="IMG_4411" src="https://github.com/user-attachments/assets/08cb3327-b8f0-4ae8-9eb9-618f72b77d41" />
+<img width="603" height="1311" alt="IMG_4410" src="https://github.com/user-attachments/assets/19870b8a-8ec9-4ea0-8b00-3da8000f507a" />
+<img width="603" height="1311" alt="IMG_4409" src="https://github.com/user-attachments/assets/2beefc9c-f43b-4314-8958-953fa7579d63" />
+<img width="603" height="1311" alt="IMG_4408" src="https://github.com/user-attachments/assets/fb665457-7e51-4f77-98c0-beae686cb2c0" />
+
 
 
 
