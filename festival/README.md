@@ -1,6 +1,7 @@
-# 日専祭アプリ：（アプリ名をここに書く）
+<img width="603" height="1311" alt="IMG_4412" src="https://github.com/user-attachments/assets/4e215252-6493-4aa4-9a68-aefeb595bd3e" /><img width="603" height="1311" alt="IMG_4411" src="https://github.com/user-attachments/assets/618334ad-d5d7-4483-98c9-2abad86e44a4" /># 日専祭アプリ：Brain Rush / ブレインラッシュ
 
-> **チーム：** （メンバーの氏名。個人制作なら自分の名前だけ）
+
+> **チーム：** （HTC  26cm0121　陳炳晟  26cm0122　ティハ  26cm0126　ノータータウェー）
 > **AI利用レベル：** 2（生成コード可）
 > **最終更新：** YYYY-MM-DD
 
@@ -10,20 +11,26 @@
 
 ## 何ができるアプリか（3行）
 
-（例：買い物リストを作るアプリ。品名を入力して追加できる。買ったものにチェックを付けると一覧から消える。）
-
+ネコと一緒に2択クイズを楽しみ、答えの解説を読んで知識を学べるアプリです。
 ## 画面
+![Uploading IMG_4408.PNG…]()
+![Uploading IMG_4409.PNG…]()
+![Uploading IMG_4410.PNG…]()
+<img width="603" height="1311" alt="IMG_4411" src="https://github.com/user-attachments/assets/a2ed0bd5-3c1e-416f-8aeb-cac83d037c94" />
+<img width="603" height="1311" alt="IMG_4412" src="https://github.com/user-attachments/assets/0e8d43b6-b224-445e-a080-79bb99fe7b75" />
+<img width="603" height="1311" alt="IMG_4413" sr<img width="603" height="1311" alt="IMG_4413" src="https://github.com/user-attachments/assets/cad746fa-5f33-4bea-8c96-523c86bde7b9" />
+c="https://github.com/user-attachments/assets/3dd57d7a-79f6-4de2-aab9-1a9707febe30" />
 
-（スクリーンショットを貼る。GitHub の編集画面に画像をドラッグ＆ドロップすると貼れます。）
+
 
 ## 使った文法・技術
 
-（例：`@State`、`List`、`ForEach`、構造体、配列の `append` と `remove`）
+SwiftUI、`@State`、`@Binding`、`ForEach`、構造体、クラス、列挙型、配列の`append`、条件分岐、データ保存、アニメーション、音声再生を使いました。
 
 ## 生成AIの使い方（どの場面で、どう使ったか）
 
-（例：画面の骨組みは ChatGPT に書いてもらった。削除ボタンが効かなかったので、原因を質問して直した。）
+生成AIを、SwiftUIの画面、クイズの出題・正誤判定、ランキング保存処理などのコード作成・修正に活用しました。また、機能や操作方法の整理、操作説明書の文章作成とPDFのレイアウト調整にも使いました。
 
 ## 展示で工夫した点
 
-（例：文字を大きくして、来場者が操作しやすいようにした。）
+起動画面に眠っているネコを表示し、来場者の好奇心を引くように工夫しました。
