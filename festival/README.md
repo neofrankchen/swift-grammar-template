@@ -1,5 +1,4 @@
-<img width="603" height="1311" alt="IMG_4412" src="https://github.com/user-attachments/assets/4e215252-6493-4aa4-9a68-aefeb595bd3e" /><img width="603" height="1311" alt="IMG_4411" src="https://github.com/user-attachments/assets/618334ad-d5d7-4483-98c9-2abad86e44a4" /># 日専祭アプリ：Brain Rush / ブレインラッシュ
-
+# 日専祭アプリ：Brain Rush / ブレインラッシュ
 
 > **チーム：** （HTC  26cm0121　陳炳晟  26cm0122　ティハ  26cm0126　ノータータウェー）
 > **AI利用レベル：** 2（生成コード可）
